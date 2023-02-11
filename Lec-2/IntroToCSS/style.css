@@ -1,8 +1,10 @@
 p{
-    color: brown ; border: 1px  solid ; border-color: black;
+    color: brown ; 
+    border: 1px  solid ; border-color: black;
 }
 h1{
-    color: blueviolet; border: 2pt ; border-color: slategray; 
+    color: blueviolet; border: 2pt ; 
+    border-color: slategray; 
 }
 h2{
     color: blue; border-color: firebrick;
